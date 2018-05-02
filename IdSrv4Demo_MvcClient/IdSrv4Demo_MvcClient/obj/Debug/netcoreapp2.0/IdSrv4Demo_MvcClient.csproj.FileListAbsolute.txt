@@ -1,0 +1,11 @@
+c:\users\anek25\source\repos\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\bin\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.deps.json
+c:\users\anek25\source\repos\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\bin\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.runtimeconfig.json
+c:\users\anek25\source\repos\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\bin\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.runtimeconfig.dev.json
+c:\users\anek25\source\repos\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\bin\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.dll
+c:\users\anek25\source\repos\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\obj\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.csprojResolveAssemblyReference.cache
+c:\users\anek25\source\repos\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\obj\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.csproj.CoreCompileInputs.cache
+c:\users\anek25\source\repos\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\obj\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.AssemblyInfoInputs.cache
+c:\users\anek25\source\repos\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\obj\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.AssemblyInfo.cs
+c:\users\anek25\source\repos\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\bin\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.pdb
+c:\users\anek25\source\repos\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\obj\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.dll
+c:\users\anek25\source\repos\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\obj\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.pdb

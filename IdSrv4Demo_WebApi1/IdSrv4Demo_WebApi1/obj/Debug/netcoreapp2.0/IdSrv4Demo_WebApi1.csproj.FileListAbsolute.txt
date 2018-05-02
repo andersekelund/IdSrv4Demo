@@ -1,0 +1,11 @@
+c:\users\anek25\source\repos\IdSrv4Demo_WebApi1\IdSrv4Demo_WebApi1\bin\Debug\netcoreapp2.0\IdSrv4Demo_WebApi1.deps.json
+c:\users\anek25\source\repos\IdSrv4Demo_WebApi1\IdSrv4Demo_WebApi1\bin\Debug\netcoreapp2.0\IdSrv4Demo_WebApi1.runtimeconfig.json
+c:\users\anek25\source\repos\IdSrv4Demo_WebApi1\IdSrv4Demo_WebApi1\bin\Debug\netcoreapp2.0\IdSrv4Demo_WebApi1.runtimeconfig.dev.json
+c:\users\anek25\source\repos\IdSrv4Demo_WebApi1\IdSrv4Demo_WebApi1\bin\Debug\netcoreapp2.0\IdSrv4Demo_WebApi1.dll
+c:\users\anek25\source\repos\IdSrv4Demo_WebApi1\IdSrv4Demo_WebApi1\obj\Debug\netcoreapp2.0\IdSrv4Demo_WebApi1.csprojResolveAssemblyReference.cache
+c:\users\anek25\source\repos\IdSrv4Demo_WebApi1\IdSrv4Demo_WebApi1\obj\Debug\netcoreapp2.0\IdSrv4Demo_WebApi1.csproj.CoreCompileInputs.cache
+c:\users\anek25\source\repos\IdSrv4Demo_WebApi1\IdSrv4Demo_WebApi1\obj\Debug\netcoreapp2.0\IdSrv4Demo_WebApi1.AssemblyInfoInputs.cache
+c:\users\anek25\source\repos\IdSrv4Demo_WebApi1\IdSrv4Demo_WebApi1\obj\Debug\netcoreapp2.0\IdSrv4Demo_WebApi1.AssemblyInfo.cs
+c:\users\anek25\source\repos\IdSrv4Demo_WebApi1\IdSrv4Demo_WebApi1\bin\Debug\netcoreapp2.0\IdSrv4Demo_WebApi1.pdb
+c:\users\anek25\source\repos\IdSrv4Demo_WebApi1\IdSrv4Demo_WebApi1\obj\Debug\netcoreapp2.0\IdSrv4Demo_WebApi1.dll
+c:\users\anek25\source\repos\IdSrv4Demo_WebApi1\IdSrv4Demo_WebApi1\obj\Debug\netcoreapp2.0\IdSrv4Demo_WebApi1.pdb
