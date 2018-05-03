@@ -6,7 +6,7 @@ namespace IdSrv4Demo_WebApi1.Controllers
 {
     [Route("api/[controller]")]
     [Authorize]
-    public class ValuesController : Controller
+    public class StudentController : Controller
     {
         // GET api/values
         [HttpGet]
@@ -19,6 +19,7 @@ namespace IdSrv4Demo_WebApi1.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
+            //todo: get students by id
             return "value";
         }
 

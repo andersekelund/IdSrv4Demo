@@ -9,3 +9,14 @@ c:\users\anek25\source\repos\IdSrv4Demo_Srv\IdSrv4Demo_Srv\obj\Debug\netcoreapp2
 c:\users\anek25\source\repos\IdSrv4Demo_Srv\IdSrv4Demo_Srv\bin\Debug\netcoreapp2.0\IdSrv4Demo_Srv.pdb
 c:\users\anek25\source\repos\IdSrv4Demo_Srv\IdSrv4Demo_Srv\obj\Debug\netcoreapp2.0\IdSrv4Demo_Srv.dll
 c:\users\anek25\source\repos\IdSrv4Demo_Srv\IdSrv4Demo_Srv\obj\Debug\netcoreapp2.0\IdSrv4Demo_Srv.pdb
+H:\Git\IdSrv4Demo\IdSrv4Demo_Srv\bin\Debug\netcoreapp2.0\IdSrv4Demo_Srv.deps.json
+H:\Git\IdSrv4Demo\IdSrv4Demo_Srv\bin\Debug\netcoreapp2.0\IdSrv4Demo_Srv.runtimeconfig.json
+H:\Git\IdSrv4Demo\IdSrv4Demo_Srv\bin\Debug\netcoreapp2.0\IdSrv4Demo_Srv.runtimeconfig.dev.json
+H:\Git\IdSrv4Demo\IdSrv4Demo_Srv\bin\Debug\netcoreapp2.0\IdSrv4Demo_Srv.dll
+H:\Git\IdSrv4Demo\IdSrv4Demo_Srv\bin\Debug\netcoreapp2.0\IdSrv4Demo_Srv.pdb
+H:\Git\IdSrv4Demo\IdSrv4Demo_Srv\obj\Debug\netcoreapp2.0\IdSrv4Demo_Srv.csprojResolveAssemblyReference.cache
+H:\Git\IdSrv4Demo\IdSrv4Demo_Srv\obj\Debug\netcoreapp2.0\IdSrv4Demo_Srv.csproj.CoreCompileInputs.cache
+H:\Git\IdSrv4Demo\IdSrv4Demo_Srv\obj\Debug\netcoreapp2.0\IdSrv4Demo_Srv.AssemblyInfoInputs.cache
+H:\Git\IdSrv4Demo\IdSrv4Demo_Srv\obj\Debug\netcoreapp2.0\IdSrv4Demo_Srv.AssemblyInfo.cs
+H:\Git\IdSrv4Demo\IdSrv4Demo_Srv\obj\Debug\netcoreapp2.0\IdSrv4Demo_Srv.dll
+H:\Git\IdSrv4Demo\IdSrv4Demo_Srv\obj\Debug\netcoreapp2.0\IdSrv4Demo_Srv.pdb

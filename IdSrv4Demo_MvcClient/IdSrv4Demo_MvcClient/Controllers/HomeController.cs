@@ -41,7 +41,7 @@ namespace IdSrv4Demo_MvcClient.Controllers
             var client = new HttpClient();
             client.SetBearerToken(tokenResponse.AccessToken);
 
-            var response = await client.GetAsync("http://localhost:5001/api/values");
+            var response = await client.GetAsync("http://localhost:5001/api/student");
             if (!response.IsSuccessStatusCode)
             {
                 Console.WriteLine(response.StatusCode);

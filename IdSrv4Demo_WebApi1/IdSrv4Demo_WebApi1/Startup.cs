@@ -33,7 +33,7 @@ namespace IdSrv4Demo_WebApi1
                     options.Authority = "http://localhost:5000";
                     options.RequireHttpsMetadata = false;
 
-                    options.ApiName = "api1";
+                    options.ApiName = "studentapi";
                 });
         }
 

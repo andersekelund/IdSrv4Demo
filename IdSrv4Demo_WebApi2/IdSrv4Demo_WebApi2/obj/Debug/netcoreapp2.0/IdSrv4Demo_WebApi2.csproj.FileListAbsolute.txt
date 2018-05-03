@@ -1,0 +1,11 @@
+H:\Git\IdSrv4Demo\IdSrv4Demo_WebApi2\IdSrv4Demo_WebApi2\bin\Debug\netcoreapp2.0\IdSrv4Demo_WebApi2.deps.json
+H:\Git\IdSrv4Demo\IdSrv4Demo_WebApi2\IdSrv4Demo_WebApi2\bin\Debug\netcoreapp2.0\IdSrv4Demo_WebApi2.runtimeconfig.json
+H:\Git\IdSrv4Demo\IdSrv4Demo_WebApi2\IdSrv4Demo_WebApi2\bin\Debug\netcoreapp2.0\IdSrv4Demo_WebApi2.runtimeconfig.dev.json
+H:\Git\IdSrv4Demo\IdSrv4Demo_WebApi2\IdSrv4Demo_WebApi2\bin\Debug\netcoreapp2.0\IdSrv4Demo_WebApi2.dll
+H:\Git\IdSrv4Demo\IdSrv4Demo_WebApi2\IdSrv4Demo_WebApi2\bin\Debug\netcoreapp2.0\IdSrv4Demo_WebApi2.pdb
+H:\Git\IdSrv4Demo\IdSrv4Demo_WebApi2\IdSrv4Demo_WebApi2\obj\Debug\netcoreapp2.0\IdSrv4Demo_WebApi2.csprojResolveAssemblyReference.cache
+H:\Git\IdSrv4Demo\IdSrv4Demo_WebApi2\IdSrv4Demo_WebApi2\obj\Debug\netcoreapp2.0\IdSrv4Demo_WebApi2.csproj.CoreCompileInputs.cache
+H:\Git\IdSrv4Demo\IdSrv4Demo_WebApi2\IdSrv4Demo_WebApi2\obj\Debug\netcoreapp2.0\IdSrv4Demo_WebApi2.AssemblyInfoInputs.cache
+H:\Git\IdSrv4Demo\IdSrv4Demo_WebApi2\IdSrv4Demo_WebApi2\obj\Debug\netcoreapp2.0\IdSrv4Demo_WebApi2.AssemblyInfo.cs
+H:\Git\IdSrv4Demo\IdSrv4Demo_WebApi2\IdSrv4Demo_WebApi2\obj\Debug\netcoreapp2.0\IdSrv4Demo_WebApi2.dll
+H:\Git\IdSrv4Demo\IdSrv4Demo_WebApi2\IdSrv4Demo_WebApi2\obj\Debug\netcoreapp2.0\IdSrv4Demo_WebApi2.pdb

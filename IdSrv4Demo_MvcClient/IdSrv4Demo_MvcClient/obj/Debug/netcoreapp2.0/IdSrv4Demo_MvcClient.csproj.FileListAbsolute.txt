@@ -9,3 +9,14 @@ c:\users\anek25\source\repos\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\obj\Debug
 c:\users\anek25\source\repos\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\bin\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.pdb
 c:\users\anek25\source\repos\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\obj\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.dll
 c:\users\anek25\source\repos\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\obj\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.pdb
+H:\Git\IdSrv4Demo\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\bin\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.deps.json
+H:\Git\IdSrv4Demo\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\bin\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.runtimeconfig.json
+H:\Git\IdSrv4Demo\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\bin\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.runtimeconfig.dev.json
+H:\Git\IdSrv4Demo\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\bin\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.dll
+H:\Git\IdSrv4Demo\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\bin\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.pdb
+H:\Git\IdSrv4Demo\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\obj\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.csprojResolveAssemblyReference.cache
+H:\Git\IdSrv4Demo\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\obj\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.csproj.CoreCompileInputs.cache
+H:\Git\IdSrv4Demo\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\obj\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.AssemblyInfoInputs.cache
+H:\Git\IdSrv4Demo\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\obj\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.AssemblyInfo.cs
+H:\Git\IdSrv4Demo\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\obj\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.dll
+H:\Git\IdSrv4Demo\IdSrv4Demo_MvcClient\IdSrv4Demo_MvcClient\obj\Debug\netcoreapp2.0\IdSrv4Demo_MvcClient.pdb

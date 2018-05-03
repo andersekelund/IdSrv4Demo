@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdSrv4Demo_MvcClient", "IdS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdSrv4Demo_WebApi1", "IdSrv4Demo_WebApi1\IdSrv4Demo_WebApi1\IdSrv4Demo_WebApi1.csproj", "{3FF02968-2970-476B-BE89-2B313C957097}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdSrv4Demo_WebApi2", "IdSrv4Demo_WebApi2\IdSrv4Demo_WebApi2\IdSrv4Demo_WebApi2.csproj", "{2CB06E33-BAD9-4DB0-80BF-CEA2E74D8DF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3FF02968-2970-476B-BE89-2B313C957097}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FF02968-2970-476B-BE89-2B313C957097}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FF02968-2970-476B-BE89-2B313C957097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CB06E33-BAD9-4DB0-80BF-CEA2E74D8DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB06E33-BAD9-4DB0-80BF-CEA2E74D8DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB06E33-BAD9-4DB0-80BF-CEA2E74D8DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB06E33-BAD9-4DB0-80BF-CEA2E74D8DF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

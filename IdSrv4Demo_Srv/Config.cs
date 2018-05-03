@@ -9,7 +9,8 @@ namespace IdSrv4Demo_Srv
         {
             return new List<ApiResource>
             {
-                new ApiResource("api1", "My API")
+                new ApiResource("studentapi", "Api for student information"),
+                new ApiResource("adminapi", "Api for administration")
             };
         }
 
@@ -31,7 +32,7 @@ namespace IdSrv4Demo_Srv
                     },
 
                     // scopes that client has access to
-                    AllowedScopes = { "api1" }
+                    AllowedScopes = { "studentapi" }
                 }
             };
         }

@@ -12311,11 +12311,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\anek25\\source\\repos\\IdSrv4Demo_MvcClient\\IdSrv4Demo_MvcClient\\IdSrv4Demo_MvcClient.csproj",
+      "projectUniqueName": "H:\\Git\\IdSrv4Demo\\IdSrv4Demo_MvcClient\\IdSrv4Demo_MvcClient\\IdSrv4Demo_MvcClient.csproj",
       "projectName": "IdSrv4Demo_MvcClient",
-      "projectPath": "c:\\users\\anek25\\source\\repos\\IdSrv4Demo_MvcClient\\IdSrv4Demo_MvcClient\\IdSrv4Demo_MvcClient.csproj",
+      "projectPath": "H:\\Git\\IdSrv4Demo\\IdSrv4Demo_MvcClient\\IdSrv4Demo_MvcClient\\IdSrv4Demo_MvcClient.csproj",
       "packagesPath": "C:\\Users\\anek25\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\anek25\\source\\repos\\IdSrv4Demo_MvcClient\\IdSrv4Demo_MvcClient\\obj\\",
+      "outputPath": "H:\\Git\\IdSrv4Demo\\IdSrv4Demo_MvcClient\\IdSrv4Demo_MvcClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

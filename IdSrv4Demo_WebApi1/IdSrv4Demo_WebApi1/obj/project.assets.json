@@ -12370,11 +12370,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\anek25\\source\\repos\\IdSrv4Demo_WebApi1\\IdSrv4Demo_WebApi1\\IdSrv4Demo_WebApi1.csproj",
+      "projectUniqueName": "H:\\Git\\IdSrv4Demo\\IdSrv4Demo_WebApi1\\IdSrv4Demo_WebApi1\\IdSrv4Demo_WebApi1.csproj",
       "projectName": "IdSrv4Demo_WebApi1",
-      "projectPath": "c:\\users\\anek25\\source\\repos\\IdSrv4Demo_WebApi1\\IdSrv4Demo_WebApi1\\IdSrv4Demo_WebApi1.csproj",
+      "projectPath": "H:\\Git\\IdSrv4Demo\\IdSrv4Demo_WebApi1\\IdSrv4Demo_WebApi1\\IdSrv4Demo_WebApi1.csproj",
       "packagesPath": "C:\\Users\\anek25\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\anek25\\source\\repos\\IdSrv4Demo_WebApi1\\IdSrv4Demo_WebApi1\\obj\\",
+      "outputPath": "H:\\Git\\IdSrv4Demo\\IdSrv4Demo_WebApi1\\IdSrv4Demo_WebApi1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
